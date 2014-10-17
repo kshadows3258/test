@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Halloween Celebration is a site dedicated to Halloween and safety" />
+		<meta name="keywords" content="Halloween Celebration,Safety Tips,trick-or-treating,holliday" />
+		<meta name="author" content="John D. Geffers" />
+		<meta name="copyright" content="pending" />
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Halloween Celebration</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../twoColFixLtHdr.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><!-- end .header -->
+    <h1>Halloween Celebration</h1>
+  </div>
+  <div class="sidebar1">
+    <ul class="nav">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="safetyTips.html">Safety Tips</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+    <h4>Fun Facts</h4>
+    <ul class="nav">
+    	<li><a href="http://www.history.com/topics/halloween" target="_blank">History</a></li>
+        <li><a href="http://wzozfm.com/the-most-popular-halloween-candy-for-2012/" target="_blank">Candy</a></li>
+        <li><a href="http://www.hypable.com/2012/10/25/popular-halloween-costumes/" target="_blank">Costumes</a></li>
+    </ul>
+    <!-- end .sidebar1 --></div>
+  <div class="content"><!-- TemplateBeginEditable name="theBody" -->theBody<!-- TemplateEndEditable -->
+    
+    <!-- end .content --></div>
+  <div class="footer">
+    <p><a href="index.html">Home</a> <a href="safetyTips.html">Safety Tips</a> <a href="contact.html">Contact</a></p>
+    <!-- end .footer --></div>
+<!-- end .container --></div>
+</body>
+</html>
